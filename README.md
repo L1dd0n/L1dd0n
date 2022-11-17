@@ -1,6 +1,6 @@
 ### Hi, I'm Reece Liddon 
 I have been learning python and with help of @futureCodersSE i have helped and even created and completed a project myself that had real world implications.
-### exlpain project, talk about course and work done on it 
+
 
 <!--
 **L1dd0n/L1dd0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
