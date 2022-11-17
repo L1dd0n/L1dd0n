@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Reece Liddon 
 ### exlpain project, talk about course and work done on it 
 
 <!--
