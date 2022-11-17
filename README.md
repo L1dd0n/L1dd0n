@@ -1,5 +1,5 @@
 ### Hi, I'm Reece Liddon 
-I have been learning python and with help of @futurecoders i have helped and even created and completed a project myself that had real world implications.
+I have been learning python and with help of @futureCodersSE i have helped and even created and completed a project myself that had real world implications.
 ### exlpain project, talk about course and work done on it 
 
 <!--
