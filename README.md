@@ -1,6 +1,5 @@
 ### Hi, I'm Reece Liddon 
-I have been learning python and with help of @futureCodersSE i have helped and even created and completed a project myself that had real world implications.
-
+I have been learning python and with help of @futureCodersSE, i have helped and even created and completed a project myself that had real world implications. I am now working at midkent college on the systems and reporting team as an apprentice.
 
 <!--
 **L1dd0n/L1dd0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
